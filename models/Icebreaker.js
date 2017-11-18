@@ -7,5 +7,3 @@ class Icebreaker{
     Question.Find()
   }
 }
-
-
